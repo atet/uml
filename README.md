@@ -1,4 +1,4 @@
-# [atet](https://github.com/atet) / [learn](https://github.com/atet/learn#atet--learn) / [**_uml_**](https://github.com/atet/learn/blob/master/uml/README.md#atet--learn--uml)
+# [atet](https://github.com/atet) / [**_uml_**](https://github.com/atet/uml?tab=readme-ov-file#atet--uml)
 
 [![.img/logo_uml.png](.img/logo_uml.png)](#nolink)
 
@@ -39,7 +39,7 @@
 
 ## 0. Requirements
 
-**Unlike my [Introduction to Programming (in R)](https://github.com/atet/learn/blob/master/programming/README.md#atet--learn--programming) where we learned on a web-based platform, you must download and install the RStudio Integrated Development Environment (IDE) and R programming language on your computer**
+**Unlike my [Introduction to Programming (in R)](https://github.com/atet/programming?tab=readme-ov-file#atet--programming) where we learned on a web-based platform, you must download and install the RStudio Integrated Development Environment (IDE) and R programming language on your computer**
 
 ### Software
 
